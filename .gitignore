@@ -1,0 +1,15 @@
+client/bower_components/
+client/node_modules/
+client/coffee/config.coffee
+client/TODO.txt
+
+server/bower_components/
+server/public/images/
+server/node_modules/
+server/orders/*
+server/tmp/cache/*
+
+*.sublime-*
+*.log
+*.~*
+*/npm-debug.log
